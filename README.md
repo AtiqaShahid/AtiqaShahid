@@ -3,7 +3,7 @@ I build full-stack web applications with a strong focus on frontend systems, AI-
 
 
 
-## contact vai:
+## contact via:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] <br>(https://linkedin.com/in/ATIQA SHAHID) 
 
 # 💻 Tech Stack:
