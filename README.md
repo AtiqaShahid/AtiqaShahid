@@ -1,6 +1,6 @@
 # HI 👋🏻 !
 # its ATIQA Signing in :
-A full-stack(frontend heavy) web developer with a strong focus on frontend systems, AI-assisted workflows, and scalable architecture.<br>Specialize in creating browser-based products where UI, logic, and data operate as one cohesive system — not just static interfaces.<br><br>Work Includes<br>- AI-driven interaction flows and structured user systems  <br>- React + Node.js application development  <br>- Real-time UI state and dynamic interfaces  <br>- API integration and data-driven features  <br>- Modular, scalable frontend architecture  <br><br>I’m particularly interested in how modern web platforms are evolving into intelligent, system-oriented experiences inside the browser by combining UI, backend logic, and AI.<br>
+A full-stack(frontend heavy) web developer with a strong focus on frontend systems, AI-assisted workflows, and scalable architecture,<br>Specialize in creating browser-based products where UI, logic, and data operate as one cohesive system — not just static interfaces.<br><br>Work Includes<br>- AI-driven interaction flows and structured user systems  <br>- React + Node.js application development  <br>- Real-time UI state and dynamic interfaces  <br>- API integration and data-driven features  <br>- Modular, scalable frontend architecture  <br><br>I’m particularly interested in how modern web platforms are evolving into intelligent, system-oriented experiences inside the browser by combining UI, backend logic, and AI.<br>
 
 
 
